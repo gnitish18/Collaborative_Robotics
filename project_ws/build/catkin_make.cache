@@ -1,2 +1,0 @@
-
--DCATKIN_DEVEL_PREFIX=/home/mahesh/me326_project_repo/Collaborative_Robotics/project_ws/devel -DCMAKE_INSTALL_PREFIX=/home/mahesh/me326_project_repo/Collaborative_Robotics/project_ws/install -G Unix Makefiles
